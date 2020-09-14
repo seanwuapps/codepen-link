@@ -1,7 +1,8 @@
 {
   "name": "codepen-link",
   "version": "1.0.0",
-  "description": "Stencil Component Starter",
+  "description": "Web component to generate pre-filled Codepen link",
+  "repository": "https://github.com/seanwuapps/codepen-link",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "es2015": "dist/esm/index.mjs",
