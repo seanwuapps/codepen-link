@@ -1,6 +1,6 @@
 {
   "name": "codepen-link",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Web component to generate pre-filled Codepen link",
   "repository": "https://github.com/seanwuapps/codepen-link",
   "main": "dist/index.js",
